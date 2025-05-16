@@ -1,5 +1,6 @@
-## Dal DevOps al Platform Engineering nel Mondo Java: Perché Jakarta EE È un Vantaggio Competitivo
+## Dal DevOps al Platform Engineering nel Mondo Java: Perché Jakarta EE È un Vantaggio Competitivo (di Angelo Rubini)
 
+L'articolo nasce da una serie di letture e riflessioni sull'argomento DevOps, Platform Engineering e jakarta ee.
 Negli ultimi anni, il movimento DevOps ha permesso ai team di sviluppo di assumersi responsabilità sull’intero ciclo di vita delle applicazioni. Ma questa autonomia ha portato anche un aumento del carico cognitivo, spesso al punto da rallentare l’innovazione e compromettere la sostenibilità operativa dei team.
 
 Il Platform Engineering nasce come risposta a questa complessità, riflettendo principi ormai riconosciuti nel settore: **si focalizza sulla creazione di una piattaforma interna (IDP) che standardizza, automatizza e semplifica tutto ciò che non è sviluppo puro, trattando la delivery del software come un prodotto a sé stante con l'obiettivo primario di migliorare la Developer Experience (DevEx)**. Questa piattaforma restituisce velocità ai team e valore al business, riducendo il carico cognitivo sugli sviluppatori applicativi.
